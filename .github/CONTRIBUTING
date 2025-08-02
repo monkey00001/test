@@ -1,0 +1,25 @@
+# Contributing to This Project
+
+Thanks for your interest in contributing!
+
+## How to Contribute
+
+1. **Fork the repo** and clone it.
+2. **Create a branch**: `git checkout -b feature-name`
+3. **Make changes**, then commit: `git commit -m "Add feature"`
+4. **Push to your fork**: `git push origin feature-name`
+5. **Open a pull request** and describe your changes.
+
+## Guidelines
+
+- Keep it simple and focused.
+- Follow existing code style.
+- Add tests if possible.
+- Keep pull requests small and easy to review.
+
+## Questions?
+
+Open an issue and we’ll help!
+
+---
+Happy coding! 🚀
